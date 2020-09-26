@@ -1,1 +1,51 @@
 # new-computer-and-laptop-specs
+
+
+
+![](https://camo.githubusercontent.com/60eec944c5e905d26d664789554da64c0e0546fa/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f39662f66642f33302f39666664333061346236316634613665333132623135623330656164386562642e706e67)
+
+https://en.wikipedia.org/wiki/List_of_laptop_brands_and_manufacturers
+
+## Alienware
+## VAIO	
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Name</th>
+<th title="Field #2">Country</th>
+<th title="Field #3">Brands and product lines</th>
+<th title="Field #4">FIELD4</th>
+</tr></thead>
+<tbody><tr>
+<td>Lenovo</td>
+<td>China</td>
+<td>ThinkPad, ThinkBook, IdeaPad, Yoga,</td>
+<td> </td>
+</tr>
+<tr>
+<td>Acer</td>
+<td>Taiwan</td>
+<td>Aspire, Swift, Spin, Switch, Extensa, Travelmate, Nitro, Enduro, Predator</td>
+<td> </td>
+</tr>
+</tbody></table>
+
+# Invest-New-Memory-Drive-Data-Deluge
+## OpenELEC OS
+### Question: external hardrive which has 4 to 6 GB, not SSD (as that would make the price prohibitive)
+
+I tend to prefer Adata drives. Based out of Taiwan and typically use SK Hynix chips
+
+more for storage space around the 4 to 6 TB range
+
+##Ｑｕｅｓｔｉｏｎ　２
+###　SSD is pretty cheap now, if you aren't interested in SSD what hard drive technology are you considering?
+
+
+
+PC running　ｂａｒｅ OS like openELEC or LibreELEC. Connected an external HDD hard drive it plays media files easily enough and fast enough even with only a USB 2.0 connection
+
+
+ looking more for storage space around the 4 to 6 TB range
+ 
+ ## ＃##＃＃　A quick search shows SSD cost like 4 times for equivalent HDD tech at 4 TB, at least in Australia.
+
