@@ -6,8 +6,8 @@
 
 https://en.wikipedia.org/wiki/List_of_laptop_brands_and_manufacturers
 
-## Alienware
-## VAIO	
+## HP / Alienware
+## DELL / VAIO	
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Name</th>
@@ -26,6 +26,116 @@ https://en.wikipedia.org/wiki/List_of_laptop_brands_and_manufacturers
 <td>Taiwan</td>
 <td>Aspire, Swift, Spin, Switch, Extensa, Travelmate, Nitro, Enduro, Predator</td>
 <td> </td>
+</tr>
+</tbody></table>
+
+<table class="table table-bordered table-hover table-condensed">
+<thead><tr><th title="Field #1">Brand</th>
+<th title="Field #2">Country</th>
+</tr></thead>
+<tbody><tr>
+<td>AXIOO International</td>
+<td>Indonesia</td>
+</tr>
+<tr>
+<td>Asus - ZenBook, VivoBook</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>Clevo</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>Elitegroup Computer Systems</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>EVE Devices</td>
+<td>Hong Kong</td>
+</tr>
+<tr>
+<td>Founder</td>
+<td>China</td>
+</tr>
+<tr>
+<td>Getac (zh)</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>Gigabyte Technology</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>Hasee</td>
+<td>China</td>
+</tr>
+<tr>
+<td>Huawei – Matebook</td>
+<td>China</td>
+</tr>
+<tr>
+<td>Hyundai</td>
+<td>South Korea</td>
+</tr>
+<tr>
+<td>Lemote</td>
+<td>China</td>
+</tr>
+<tr>
+<td>LG – Gram</td>
+<td>South Korea</td>
+</tr>
+<tr>
+<td>Micro–Star International (MSi) – Megabook, Wind</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>NEC – VERSA, LaVie</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>Onkyo – SOTEC</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>feed me[disambiguation needed]</td>
+<td>Malaysia</td>
+</tr>
+<tr>
+<td>Panasonic – Toughbook, Let&#39;s Note</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>Razer – Blade</td>
+<td>Singapore</td>
+</tr>
+<tr>
+<td>Samsung Electronics – Samsung Sens, Galaxy Book</td>
+<td>South Korea</td>
+</tr>
+<tr>
+<td>Sharp – Mebius</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>Toshiba - Portege, Tecra, Satellite, Qosmio</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>Tongfang</td>
+<td>China</td>
+</tr>
+<tr>
+<td>VAIO</td>
+<td>Japan</td>
+</tr>
+<tr>
+<td>VIA – NanoBook, pc–1 Initiative</td>
+<td>Taiwan</td>
+</tr>
+<tr>
+<td>Xiaomi - Mi NoteBook</td>
+<td>China</td>
 </tr>
 </tbody></table>
 
